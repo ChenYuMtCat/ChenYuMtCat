@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChenYuMtCat
 - 👀 I’m interested in code，fitness，archer 
 - 🌱 I’m currently learning Java and JavaScript
-- 💞️ I’m looking to collaborate on friend
+- 💞️ I’m looking new friend to learn together
 - 📫 If you want to connect me,just email me to chen.yu@ieee.org
 
 <!---
